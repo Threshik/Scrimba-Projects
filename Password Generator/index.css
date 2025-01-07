@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-color: #1C1C1C;
+}
+#card{
+    background-color:#1F2937;
+    margin: 40px;
+    padding: 20px;
+    align-items: center;
+    box-align: center;
+}
+#generate{
+    color: white;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#password{
+    color: #4ADF86;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#txt{
+    color: white;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#btn{
+    background-color: #10B981;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#butto{
+    align-items: center;
+}
+#first{
+    padding: 15px;
+    width: 150px;
+    border-radius: 5px;
+    margin: 20px;
+    margin-top: 40px;
+    background-color: #273549;
+    border: none;
+    cursor: pointer;
+    color: white;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#second{
+    padding: 15px;
+    width: 150px;
+    border-radius: 5px;
+    margin: 20px;
+    background-color: #273549;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
